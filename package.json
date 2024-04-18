@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@iconify/react": "^4.1.1",
     "@types/headroom.js": "^0.12.4",
     "@types/react-lottie": "^1.2.10",
     "bootstrap": "^5.3.3",

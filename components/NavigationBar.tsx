@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { greetings, socialLinks } from '../portfolio';
+import { greetings, socialLinks } from '@/portfolio';
 import Headroom from 'headroom.js';
 import {
 	UncontrolledCollapse,
